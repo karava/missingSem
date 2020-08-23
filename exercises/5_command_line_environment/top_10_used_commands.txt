@@ -1,0 +1,10 @@
+     15 sudo nano runCheckFail.sh
+     18 echo $MARCO_FOLDER
+     18 ./runCheckFail.sh
+     22 sudo nano marco.sh
+     23 ls -l
+     23 source marco.sh
+     25 logout
+     31 cd ..
+     71 marco
+    192 l
